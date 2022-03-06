@@ -1,11 +1,6 @@
 <<<<<<< HEAD
 
 
-## Documentation
-
-https://tushargugnani.github.io/vue-step-wizard/#/
-
-
 ## Installing Plugin
 ```
 npm install --save vue-step-wizard
@@ -31,11 +26,6 @@ components: {
 }
 ```
 
-### Buy my a Pizza
-
-You have an option to buy me a pizza if you found this plugin useful
-
-https://www.buymeacoffee.com/wLrF3Z0tE
 =======
 # ContactForm-Vue
 contact form for getting jobs.
